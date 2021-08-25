@@ -14,5 +14,5 @@ In this project, my team implemented a 5-stage pipeplined RV32I microprocessor i
 * Stride Prefetcher
 
 # Analysis of Processor Performance:
-The test code (mp4_cp3.s) contained 43605 instructions. A simple RV32I CPU design took 186887 cycles to run test code. Our design took 80974 cycles to run test code. 
+The test code (mp4-cp3.s) contained 43605 instructions. A simple RV32I CPU design took 186887 cycles to run test code. Our design took 80974 cycles to run test code. 
 Our design was one of the fastest and consumed the least power thus winning us 2nd place in the competition.
