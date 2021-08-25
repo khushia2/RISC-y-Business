@@ -1,4 +1,10 @@
 # RISC-y-Business
-A 5-stage pipelined RV32I processor built in SystemVerilog
+In this project, my team implemented a 5-stage pipeplined RV32I microprocessor in SystemVerilog. The processor is split into the following 5 stages: fetch, decode, execute, memory and write-back with buffers between them.
 
-Won 2nd place (out of 50 teams) in the Design Competiton :)
+# Feature Highlights:
+* Memory Hierarchy (I-Cache, L1/L2 D-Cache, Arbiter)
+* Stalling
+* Forwarding Unit
+* Tournament Branch Predictor
+* Branch Target Buffer
+* Stride Prefetcher
